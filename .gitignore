@@ -1,0 +1,26 @@
+# Arquivos de Configuração e Credenciais (MUITO SENSÍVEL)
+config.py
+credentials.json
+
+# Banco de Dados e Estados (CONTÉM DADOS DE CLIENTES)
+*.db
+*.sqlite
+*.sqlite3
+user_states.json
+
+# Arquivos de Saída e Logs (PRIVADO)
+*.xlsx
+*.csv
+*.log
+
+# Dependências e Cache do Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db

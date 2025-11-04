@@ -1,0 +1,43 @@
+# config.py.example
+# Renomeie este arquivo para config.py e preencha com suas chaves
+
+# ================================
+# CHAVES PRINCIPAIS
+# ================================
+
+# (Obrigatório) Token do seu Bot no Telegram
+TELEGRAM_TOKEN = "SEU_TOKEN_AQUI"
+
+# (Obrigatório) Token de Acesso do Mercado Pago (Production)
+MP_ACCESS_TOKEN = "APP_USR-SEU_TOKEN_AQUI"
+
+# (Obrigatório) Chaves da Twilio para WhatsApp
+TWILIO_ACCOUNT_SID = "SEU_SID_AQUI"
+TWILIO_AUTH_TOKEN = "SEU_AUTH_TOKEN_AQUI"
+TWILIO_WHATSAPP_NUMBER = "whatsapp:+14155238886" # (Número que a Twilio te deu)
+
+# (Obrigatório) URL Base do Ngrok (ou seu servidor)
+# Use a URL https que o Ngrok gera para você.
+# Lembre-se de atualizar o `catalogo.py` também!
+BASE_URL = "https://SEU_LINK_DO_NGROK.ngrok-free.dev"
+
+# ================================
+# CHAVES GOOGLE
+# ================================
+# (Obrigatório) ID da sua Agenda Google
+CALENDAR_ID = "SEU_ID_DE_AGENDA@group.calendar.google.com"
+
+# (Obrigatório) API Key do Google Maps (para calcular frete)
+GOOGLE_MAPS_API_KEY = "SUA_API_KEY_DO_GOOGLE_MAPS"
+
+# ================================
+# CONFIGURAÇÃO DE E-MAIL (Relatórios)
+# ================================
+# E-mail que vai ENVIAR o relatório
+EMAIL_REMETENTE = "seu-email@gmail.com"
+
+# Senha de App gerada no Google (NÃO é a sua senha normal do Gmail)
+EMAIL_SENHA_APP = "sua_senha_de_app_de_16_digitos"
+
+# E-mail que vai RECEBER o relatório
+EMAIL_DESTINATARIO = "email-para-receber-relatorio@gmail.com"
