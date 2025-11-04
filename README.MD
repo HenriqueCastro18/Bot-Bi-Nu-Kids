@@ -11,7 +11,7 @@ Assista aos vídeos abaixo para ver as principais funcionalidades do bot em aç�
 ### Vídeo 1: Testando o Fluxo Principal do Bot
 *(Demonstração completa do fluxo de reserva no WhatsApp, desde a escolha no catálogo, cálculo de frete, agendamento no Google Calendar e geração do link de pagamento do Mercado Pago.)*
 
-[![Demonstração do Bot no WhatsApp](https://img.youtube.com/vi/UNsJ8uvj7Y8/0.jpg)](https://www.youtube.com/watch?v=quX6AZUhWWk)
+[![Demonstração do Bot no WhatsApp](https://img.youtube.com/vi/quX6AZUhWWk/0.jpg)](https://www.youtube.com/watch?v=quX6AZUhWWk)
 
 [Link Direto para o Vídeo 1](https://www.youtube.com/watch?v=quX6AZUhWWk)
 
